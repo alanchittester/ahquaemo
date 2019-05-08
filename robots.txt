@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://paangaixah.home-office-cologne.de/sitemap.xml
